@@ -48,7 +48,7 @@ Example: Cell Type, Target Gene, Score, Model, Distance to gene TSS
 Example: Cell Type, Target Gene, Model
 ### API details or filtering:
 Example: Only show cases where Model == ENCODE-rE2G-DNaseOnly
-### Documentation (or, edit this directly at [DAOFENG IS THERE A GITHUB LINK FOR EDITING?]: 
+### Documentation (or, send a PR at the [docs repo](https://github.com/twlab/igvf-catalog-docs)): 
 Link: https://docs.catalog.igvf.org/nodes/variant#enhancer-gene-model-prediction-table
 Example:
 This table shows which genes are predicted to be regulated by enhancers overlapping the query variant. Each row reports one predicted target gene and cell type. 
