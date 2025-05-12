@@ -1,5 +1,5 @@
 ---
-name: Feedbacks to UI/Table view
+name: Feedback to UI/Table view
 about: Request changes to the table view or change other UI elements for the IGVF
   catalog at https://catalog.igvf.org/
 title: "[UI]"
